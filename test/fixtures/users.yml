@@ -4,3 +4,11 @@ steve:
  email: "g23design@gmail.com"
  profile_name: "stevieg"
  encrypted_password: "password"
+
+kristy:
+ first_name: "kristy"
+ last_name: "gotham"
+ email: "kpgotham@yahoo.com"
+ profile_name: "kristygotham"
+ encrypted_password: "password"
+ 
